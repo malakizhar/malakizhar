@@ -1,5 +1,12 @@
-# 💫 About Me:
-I’m currently working on full-stack web applications using the MERN stack.<br> I also build cross-platform mobile apps using Flutter.<br>I’m looking to collaborate on scalable web apps, SaaS products, and mobile solutions.<br>I’m currently learning DevOps (CI/CD, Docker, cloud deployment, automation).<br>Ask me about MERN development, Flutter apps, API integration, and system architecture.<br>Fun fact: I don’t just code — I research deeply before building to deliver the best solution.
+# 💫 About Me
+Full-Stack Web Developer (MERN) with 3+ years of experience building scalable web applications.  
+Mobile App Developer (Flutter) with 2+ years of experience delivering cross-platform apps.  
+
+🔭 Currently building scalable SaaS and full-stack applications  
+🌱 Learning DevOps (CI/CD, Docker, Cloud Deployment)  
+🤝 Open to collaboration on web & mobile products  
+💬 Ask me about MERN, Flutter, APIs, and system architecture  
+⚡ I research deeply before building to ensure the best solution
 
 
 ## 🌐 Socials:
